@@ -6,16 +6,16 @@ git clone: Este comando se usa para copiar un repositorio existente y usar su in
 
 git pull: Se usa para tomar contenidos de un repositorio remoto y llevarlo a mi local.
 
-git checkout:
+git checkout:Se usa para moverse entre las ramas que están creadas.
 
-git log:
+git log:Comando para revisar historial de cambios.
 
-git branch:
+git branch:Se usa para cambiarle el nombre a la rama.
 
-git add:
+git add:Se usa para añadir un archivo o cambios al área de trabajo.
 
-git commit:
+git commit: Punto de cambio, deja un msj para saber cuáles fueron las modificaciones.
 
-git push:
+git push:Llevar cambios del local al remoto.
 
-git merge:
+git merge:Comando para integrar una sola línea en otras ramas.
